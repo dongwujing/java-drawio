@@ -1,1 +1,100 @@
-<mxfile host="Electron" modified="2023-03-13T11:19:52.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.16 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36" etag="6Tmn9yMhEVi5MYf9gaQa" version="20.8.16" type="device" pages="2"><diagram name="定时服务节点注册" id="L4gDUB5HOPaYCPxyjkHu">7Vtdc6I6GP41zHYv7PAhCpdisaeddqZzPDvtOXdRImYLhBNi1f76DSQgKCpquwva9kLy5vv9ePIkBEnr+4tbAsLpI3agJ6mys5C0G0lVFb2jsp9YsuQSQ+9ygUuQIwqtBEP0DoVQFtIZcmBUKEgx9igKi8IxDgI4pgUZIATPi8Um2Cv2GgIXbgiGY+BtSp+RQ6diFmp3Jf8LInea9qx0TJ4zAuNXl+BZIPoLcAB5jg/SZsQcoylw8Dwn0mxJ6xOMKX/yF33oxWpNNcbrDbbkZkMmMKBVKvygj62nwcOdaevOje0ufwJstlIDvAFvJnQhRkuXqXKgw3QlkpjQKXZxADx7JbUSBcC4H4WlVmUeMA6F8CekdCkMD2YUM9GU+p7I9cAIelamyz72MGFZiTY1K6IEv8JUKKlaz1BlpcdyJjigqdyBEzDzmCqsTc0IZUV4RsZwlzqE7wHiQrqjnLB+rJlcB0LvtxD7kJIlK0CgByh6K3oZEM7qZuVWVmMPwnDlRpwPn579Z+e/W9l+efzxqvQHxn1L3bShrUuGIZlW/GBZktUbQRCwMpJtSoYsmT3JNiRrIBldqS3zvE6iuxFhT+5Ki2t+8BAbqmg74CE3YM9jpm3IDGG9QUIRi62eyPCR43A3gRF6B6OkPZmlQ4wCmihDtyT9Zq8f5K3NvEBpa522Wmrv3b7OxgcXUgmuiLEVArRgT1GrJV8rBq8pAE+YoLK9RdNPsQZyRfBkEjHHW3eIbASVfGSXZ+d85GXh3eNRHwcT5G7YuhjR8ymicBiCJHbmbAk4JHonyPNyVhv0bL3fLYtqeWBYxs1Bdla2WHSr5VIfEGZTDJGer1BfSQF7mkP8jnx67JbaxThD/GXmIcuXOMiv9TT5r4j5JHGzKKSWInU8bnfrjtu7Rl2wPUdhB70VfKDz/yymCdaY67oXD9EdXTHnYT3L6c/3RIdybJTWBPjIW/KirD7w45gVrdxDahGAgojlPeIAr+fz5nyWE/GYz1qNEgeK2zRDXrKT1UlXDT6DkMDSGWzWGPqA0LsAUcRWkncUuGkTTKdJK0c3zNryIMXB7gaZNFH3llXvXJFQ6xahUC1BwnYJEnY/CwmVEhrTeCg8HtLMipCmKLXiotq5YxoXgQnjuhnARHdBREHAEIwy19sPX0XRNsXUbc7RLITkmk2U0Kvvh2HqCfjb+F1HCmsn7zrka9WUzY/cdqTbGbXQaAYpn78rMS8DLZoW6U0bL9/KDkNSjT1ykb2AY7b6k89DshNQbw/PLLKcJrFOs24bcEX/op0ldHI/72zXai+tdL6WkuT8NnOh1tr8VF3nY8k/1HSWlUhmgxcsFCBq+yPoDCFh4FnLJai2xLuItVVpeArzH0DD5a6+RphPo+G/4fR/8/h/33naCBMHkjyIvAFy1Wrl5QI9qgDpelBwyraPg10oK8rO5v4cKzrH9xInsKJ2VVbUrRcrupAN9kfzhfNgUQGcswr/TAkEe04lv2jDPhw8njbUmBW0D0aH0sDQJslfATw02Yj/N7j3t/UY+MacPu/xeXc3r+Xq3n40n75QkqH/cZKhlrHSCyYZVW8xpEaqySu/w1GkuRzjPJfGiovhVsw55gKdWrxAl76DqvFqefh1nRqvlk07Mfu444r1ztIziL+hi6LEuY65fnR8/xX5+df7pmNIT6d+pKfshszlkp5U9/tJj1qrkxX1rPZOpDr2cdGU0jC2OI7OlBIddVqQxfaHfGGgNu0tQxrL5xETTWNIPcdHgYXe+x6KvfSLOZzGHEy1dsxB3QgvGDgXYxCm7DWLtH+jRUpPPsrunJxA5eTGULlSbegVmVy9LqxvXv8qHPTs+h7S81AYxTreE3IgCvlHyxO0iA3dpKjT1r4S0TdCziiJOOPwiGPJ1bfQnJGsvjXX7F8=</diagram><diagram id="OxEUelnoT9tCixduqyT8" name="领域模型分析">5Vpdc5s6EP01emwGJIThERzSztzcTDt5aPuoGMXmDrY8svzVX9/FCAMWEPcmMcR9saVFCHR29+xqBSLj+e6zZMvZvyLmKcJWvEPkFmFsUxfDXybZ5xKPjnLBVCaxHlQKHpNfXAstLV0nMV/VBiohUpUs68KJWCz4RNVkTEqxrQ97Fmn9qUs25YbgccJSU/o9idVMrwKPSvkXnkxnxZNt18+vzFkxWK9kNWOx2FZEJEJkLIVQeWu+G/M0A6/AJb/vruXq8cUkX6hzbvDvt7t/HtjTM4436fjbPL1fbz45+Swblq71gvXLqn2BAI8BEN0VUs3EVCxYGpXSUIr1IubZYyzolWPuhViC0Abhf1ypvdYuWysBopmap/pq/szsQa1r06KVWMsJ71iQfn/F5JSrjnHkqAEwXS7mXMk93Cd5ylSyqb8H0zY0PY4rYYaGRvoPUC+MuwI7wBAsGrG/Z0/gUzW8WJpMF9CeADxcgmDDpUrAaAN9YZ7Eca4avkp+safDfJlyliJZqMNyaIjo7RH7bAK+Qw0epW8u7biqlXabMqHVs3+ybohjazVpUtC9s8HXk3/NFlMZIp6fV6D0U+0c3+H/KwybbhJR5I1RGKLIR76PArjupgBL+CShNVVHaCvqrDvKdpYo/rhkB3veAn02OUWDYgy3aMXatqwazoXdbUsmswu1zios5lrvZPjE/eD0Qs6kF/pKejncGkjJ9pUB2nlNB9Dqps6Jup2TiHAy3iad46GRv8GbuhIZGb70ANz3cB3clxt4q0NaN7btOzXQydC5j3Rx3wjBcvy73pnO8QbGdLQRtcBBwSiLGIGNQr931E5AO/Z7Q83rIzwAWHL/o9r5mU12Q4vu7U5Pnvf2uveGYcW9UFh5lXJ8w6SBbsGQX857PiSVe52uA2ms43l+zX+KNHG4XF7k3dez3zvXc+wWJrzQhs8MojaK7lA4Rv61bPty2+pIfSzXHQ3dQXBDtvN3OAhuUd9lHASbhaircxDcUnMqHQTTWjyxh+4trukskYsCgiCRhEYI24Qwa/iwWQgOjQh5jqHN9090yeAyXdvM/v+OVNcuqviDrtBis0Krk91rYKLc+LpyW+x5w09m7Qb6cVDoIZ9km23fRr53xu7k/elnNLTqBO6lDjsA9sHnsk/P6ZBZJC3ToSshIdxdKs1IyHLqCdHga6XYrJH04Wi9OExLveQyDkPMrPKShFbhsJ/VawMitNemU29yIuVa3SdSxgkWvcSJlFmrv6LTePLicbzl4I9Wx8RNqZ+LIGeFzWfkZftPjw4i9XNPjuCpR/vO/XAjdqe79uKMKjviC1EQ9YAdofWjUur3njd7Z2EHv7fIpz1AdvwwbTDmRnrJgMrIXN9quIS8EJsPva9cJrD8jM3fOmAX31wMfAdCmk4sricotmBb+UyD4npMHHwxlpglq8MnB1FG5BlJWVlpZFB1EXoSG9+R36FbfmqbQ15+sEyi3w==</diagram></mxfile>
+
+<mxfile host="app.diagrams.net" modified="2023-03-10T02:17:17.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Frenun8bRt8Ha-BhxC-G" version="21.0.2" type="github" pages="2">
+  <diagram name="定时服务节点注册" id="L4gDUB5HOPaYCPxyjkHu">
+    <mxGraphModel dx="1790" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="UtM-PFLI9E5dDEgyjao9-1" target="UtM-PFLI9E5dDEgyjao9-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSPWmWdZG0EXMUk1CF8J-2" value="创建bean 通过@bean&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="UtM-PFLI9E5dDEgyjao9-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.18" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-1" value="XxlJobConfig" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UtM-PFLI9E5dDEgyjao9-7" target="UtM-PFLI9E5dDEgyjao9-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-7" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre style=&quot;&quot;&gt;SmartInitializing&lt;/pre&gt;&lt;pre style=&quot;&quot;&gt;Singleton&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="250" y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="UtM-PFLI9E5dDEgyjao9-9" target="UtM-PFLI9E5dDEgyjao9-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSPWmWdZG0EXMUk1CF8J-3" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;afterSingletonsInstantiated&lt;/pre&gt;&lt;pre&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;super.start()&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="UtM-PFLI9E5dDEgyjao9-12" vertex="1" connectable="0">
+          <mxGeometry x="0.2909" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-9" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;XxlJobSpring&lt;/pre&gt;&lt;pre&gt;Executor&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="UtM-PFLI9E5dDEgyjao9-11" target="UtM-PFLI9E5dDEgyjao9-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-16" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;start()&lt;/pre&gt;&lt;pre&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;initEmbedServer&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;rounded=1;" parent="UtM-PFLI9E5dDEgyjao9-15" vertex="1" connectable="0">
+          <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-11" value="&lt;pre style=&quot;border-color: var(--border-color); color: rgb(8, 8, 8);&quot;&gt;XxlJobExecutor&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="260" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="UtM-PFLI9E5dDEgyjao9-14" target="UtM-PFLI9E5dDEgyjao9-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-19" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;start()&lt;/pre&gt;&lt;pre&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;new Thread&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;rounded=1;" parent="UtM-PFLI9E5dDEgyjao9-18" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-14" value="&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre&gt;EmbedServer&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="260" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="UtM-PFLI9E5dDEgyjao9-17" target="UtM-PFLI9E5dDEgyjao9-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSPWmWdZG0EXMUk1CF8J-4" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;start&lt;/pre&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="UtM-PFLI9E5dDEgyjao9-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.28" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-17" value="&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;ExecutorRegistry&lt;/pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;Thread&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="UtM-PFLI9E5dDEgyjao9-20" target="UtM-PFLI9E5dDEgyjao9-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-24" value="&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre&gt;registry&lt;/pre&gt;&lt;pre&gt;http post&lt;/pre&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;rounded=1;" parent="UtM-PFLI9E5dDEgyjao9-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-20" value="&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre&gt;AdminBizClient&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="800" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtM-PFLI9E5dDEgyjao9-22" value="end" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSPWmWdZG0EXMUk1CF8J-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="wSPWmWdZG0EXMUk1CF8J-5" target="UtM-PFLI9E5dDEgyjao9-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSPWmWdZG0EXMUk1CF8J-5" value="start&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="30" y="25" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OxEUelnoT9tCixduqyT8" name="测试">
+    <mxGraphModel dx="1790" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
